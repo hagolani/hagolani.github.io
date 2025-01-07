@@ -21,7 +21,7 @@ title                    : "Welcome to Pascal Hagolani's Academic Space"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Pascal F. Hagolani"
-description              : "Personal website..."
+description              : "Personal website"
 url                      : "https://hagolani.github.io" # "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
