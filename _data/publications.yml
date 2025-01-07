@@ -3,3 +3,15 @@
   journal: "Development"
   year: 2019
   url: "https://doi.org/10.1242/dev.179309"
+
+- title: "On the evolution and development of morphological complexity: a view from gene networks"
+  authors: "Hagolani PF, Zimm R, Vroomans R and Salazar-Ciudad I"
+  journal: "PLoS Comput Biol"
+  year: 2021
+  url: "https://doi.org/10.1371/journal.pcbi.1008570"
+  
+- title: "Bounding phenotype transition probabilities via conditional complexity"
+  authors: "Dingle K, Hagolani PF, Zimm R, Umar M, O'Sullivan S, Louis A"
+  journal: "biorxiv"
+  year: 2021
+  url: "https://doi.org/10.1101/2024.12.18.629197"
