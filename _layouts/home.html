@@ -18,3 +18,18 @@ layout: archive
 </div>
 
 {% include paginator.html %}
+
+<!-- Add Publications Section Below -->
+<h3 class="archive__subtitle">Publications</h3>
+<ul>
+  {% for publication in site.data.publications %}
+    <li>
+      <strong>{{ publication.title }}</strong><br>
+      {{ publication.authors }} <br>
+      <em>{{ publication.journal }}</em>, {{ publication.year }}. 
+      {% if publication.url %}
+        <a href="{{ publication.url }}" target="_blank">[Read More]</a>
+      {% endif %}
+    </li>
+  {% endfor %}
+</ul>
