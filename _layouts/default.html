@@ -9,14 +9,30 @@
     {% include head/custom.html %}
 
     <!-- SEO Meta Tags -->
-    <meta name="description" content="Pascal Felix Hagolani - Evolutionary Biologist specializing in computational biology, morphogenesis, and evolutionary dynamics.">
-    <meta name="keywords" content="Pascal Felix Hagolani, Evolutionary Biologist, Computational Biology, Morphogenesis, Evolutionary Dynamics">
-    <meta name="author" content="Pascal Felix Hagolani">
+    <meta name="description" content="Pascal Hagolani - Evolutionary Biologist specializing in computational biology, morphogenesis, and evolutionary dynamics.">
+    <meta name="keywords" content="Pascal Hagolani, Evolutionary Biologist, Computational Biology, Morphogenesis, Evolutionary Dynamics">
+    <meta name="author" content="Pascal Hagolani">
     <meta name="robots" content="index, follow">
-    <meta property="og:title" content="Pascal Felix Hagolani - Evolutionary Biologist">
+    <meta property="og:title" content="Pascal Hagolani - Evolutionary Biologist">
     <meta property="og:description" content="Specializing in computational biology, morphogenesis, and evolutionary dynamics.">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://pascalhagolani.github.io">
+    <meta property="og:url" content="https://hagolani.github.io">
+
+    <!-- Structured Data (JSON-LD) -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Pascal Hagolani",
+      "url": "https://hagolani.github.io",
+      "sameAs": [
+        "https://github.com/hagolani",
+        "https://linkedin.com/in/hagolani"
+      ],
+      "jobTitle": "Evolutionary Biologist",
+      "description": "Specializing in computational biology, morphogenesis, and evolutionary dynamics."
+    }
+    </script>
   </head>
 
   <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}" dir="{% if site.rtl %}rtl{% else %}ltr{% endif %}">
