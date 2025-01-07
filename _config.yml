@@ -119,6 +119,7 @@ author:
   location         : "Helsinki"
   email            : "pfhagolani (at) gmail (dot) com"
   cv               : "/assets/files/Hagolani_CV.pdf"
+  github           : "https://github.com/hagolani"
   links:
     - label: "pfhagolani (at) gmail (dot) com"
       icon: "fas fa-fw fa-envelope-square"
