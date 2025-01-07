@@ -113,11 +113,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Pascal F. Hagolani"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "I am a dedicated evolutionary biologist with a strong computational background, specializing in the development and application of algorithmic frameworks to explore complex systems. With a focus on unraveling the mechanisms underlying morphogenesis and evolutionary dynamics, I bring expertise in simulation design, high-performance computing, and interdisciplinary collaboration."
+  location         : "Helsinki"
+  email            : "pfhagolani (at) gmail (dot) com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
