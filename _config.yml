@@ -114,12 +114,12 @@ analytics:
 # Site Author
 author:
   name             : "Pascal Felix Hagolani"
-  avatar           : ""# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am a dedicated evolutionary biologist with a robust computational background, focused on advancing our understanding of complex biological systems. My research specializes in developing and applying algorithms to investigate morphogenesis and evolutionary dynamics. With expertise in simulation design, high-performance computing, and interdisciplinary collaboration, I address fundamental questions about the mechanisms driving biological diversity and complexity."
+  avatar           : "/assets/imgs/hago.jpg"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "I am an evolutionary biologist with a robust computational background, focused on advancing our understanding of complex biological systems. My research specializes in developing and applying algorithms to investigate morphogenesis and evolutionary dynamics. With expertise in simulation design, high-performance computing, and interdisciplinary collaboration, I address fundamental questions about the mechanisms driving biological diversity and complexity."
   location         : "Helsinki"
   email            : "pfhagolani (at) gmail (dot) com"
   links:
-    - label: "Email"
+    - label: "pfhagolani (at) gmail (dot) com"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
     - label: "Website"
