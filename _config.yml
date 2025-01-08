@@ -21,7 +21,7 @@ title                    : "Welcome to Pascal Hagolani's Academic Space"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Pascal F. Hagolani"
-description              : "An academic portfolio showcasing my research, publications, and projects."
+description              : "Pascal F. Hagolani academic portfolio showcasing my research, publications, and projects."
 url                      : "https://hagolani.github.io" # "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -120,6 +120,7 @@ author:
   email            : "pfhagolani (at) gmail (dot) com"
   cv               : "/assets/files/Hagolani_CV.pdf"
   github           : "hagolani"
+  scholar          : "https://scholar.google.co.in/citations?user=lap_sJ8AAAAJ&hl=en" 
   links:
     - label: "pfhagolani (at) gmail (dot) com"
       icon: "fas fa-fw fa-envelope-square"
