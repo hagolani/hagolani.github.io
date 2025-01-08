@@ -136,6 +136,14 @@
         </li>
       {% endif %}
 
+      {% if author.scholar %}
+        <li>
+          <a href="{{ author.scholar }}" target="_blank" rel="noopener noreferrer">
+            <i class="fas fa-fw fa-graduation-cap" aria-hidden="true"></i><span class="label">Google Scholar</span>
+          </a>
+        </li>
+      {% endif %}
+        
       {% if author.gitlab %}
         <li>
           <a href="https://gitlab.com/{{ author.gitlab }}" itemprop="sameAs" rel="nofollow noopener noreferrer me">
